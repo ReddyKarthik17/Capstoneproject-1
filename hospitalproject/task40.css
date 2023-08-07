@@ -1,5 +1,5 @@
 .main_div{
-	height: 5000px;
+	height: 5200px;
 	width: 1000px;
 	background-color: white;
 	margin: 20px;   
@@ -16,6 +16,14 @@
 	background-image: url(images/img1.jpg);
 	background-repeat: no-repeat;
 	background-size: 1000px 400px;
+}
+.d12{
+	height: 200px;
+	width: 1000px;
+	text-align: center;
+	background-color: #272829;
+	color: white;
+	padding: 100px 300px 50px 300px;
 }
 .first_b{
 	height:200px ;
