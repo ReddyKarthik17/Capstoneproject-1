@@ -23,7 +23,8 @@
 	text-align: center;
 	background-color: #272829;
 	color: white;
-	padding: 100px 300px 50px 300px;
+/* 	padding: 100px 300px 50px 300px; */
+	margin: 100px 100px 100px 100px;
 }
 .first_b{
 	height:200px ;
